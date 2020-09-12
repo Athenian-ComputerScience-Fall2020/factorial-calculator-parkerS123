@@ -21,7 +21,7 @@ if __name__ == '__main__':
     # Test your code with this first
     # Change the argument to try different values
 
-    your_number = input("Input a number that you would like to know the factorial of... ")
+    your_number = int(input("Input a number that you would like to know the factorial of... "))
 
     print(factorial_calc(int(your_number)))
 
