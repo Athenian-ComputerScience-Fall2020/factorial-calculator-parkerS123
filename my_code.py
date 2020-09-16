@@ -1,5 +1,5 @@
-# Collaborators (including web sites where you got help: (enter none if you didn't need help) = mom 
-#  
+# Collaborators (including web sites where you got help: (enter none if you didn't need help) 
+# mom
 
 def factorial_calc(number):   #you may choose the name of the parameter
 
