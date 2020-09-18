@@ -1,7 +1,7 @@
 # Collaborators (including web sites where you got help: (enter none if you didn't need help) 
 # mom
 
-def factorial_calc(number):   #you may choose the name of the parameter
+def factorial_calc(your_number):   #you may choose the name of the parameter
 
     answer = 1
 
